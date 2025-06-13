@@ -100,6 +100,7 @@ section#img02 {
 
 footer {
     background-color: black;
+    width: 100vh;
 }
 
 footer > p {
