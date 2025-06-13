@@ -100,7 +100,11 @@ section#img02 {
 
 footer {
     background-color: black;
+}
+
+footer > p {
+    font-family: var(--font3);
+    font-size: 1em;
     text-align: center;
     color: white;
-    padding: 0px 0px 0px 0px;
 }
