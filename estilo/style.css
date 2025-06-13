@@ -100,4 +100,7 @@ section#img02 {
 
 footer {
     background-color: black;
+    font-size: 0.5em;
+    text-align: center;
+    color: white;
 }
