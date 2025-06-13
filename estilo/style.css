@@ -18,7 +18,7 @@
     font-size: 1em;
 }
 
-body {
+html, body {
     font-family: var(--font1);
     min-height: 100vh;
     background-color: darkgray;
@@ -102,9 +102,3 @@ footer {
     background-color: black;
 }
 
-footer p {
-    font-family: var(--font3);
-    font-size: 0.5em;
-    text-align: center;
-    color: white;
-}
